@@ -6,12 +6,12 @@
 |--------|-|
 |k21-3073|Abdul aleem |
 |k21-3107|Rahima Irfan|
-|k21-3063|khaja Abdul samad |
+|k21-3063|Khaja Abdul Samad |
 
 ## Output Screenshots
-//-- Add output screenshots here. --//
+Uploaded on gcr in csv files
 ## Results and Analysis
-//-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
+Uploaded and Submitted on GCR
 ## Major Problems Encountered
 1. Issue 1: Blah blah .....
     - Solution1: tried to blah blahb
