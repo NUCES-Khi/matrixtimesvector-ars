@@ -93,7 +93,7 @@ void openmp_tiled_mvm(double** matrix, double* vector, double* result, int rows,
     }
 }
 
-// MPI matrix-vector multiplication with tiling
+// mvm with tiling 
 void mpi_tiled_mvm(double** matrix, double* vector, double* result, int rows, int cols, int rank, int size, int tile_size) {
     int start = (rows / size) * rank;
     int end = (rank == size - 1) ? rows : (rows / size) * (rank + 1);
