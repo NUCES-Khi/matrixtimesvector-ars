@@ -6,7 +6,7 @@
 |--------|-|
 |k21-3073|Abdul aleem |
 |k21-3107|Rahima Irfan|
-|k21-3063|Abdul samad khaja|
+|k21-3063|khaja Abdul samad |
 
 ## Output Screenshots
 //-- Add output screenshots here. --//
