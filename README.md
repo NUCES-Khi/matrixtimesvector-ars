@@ -3,9 +3,9 @@
 ## Team Members
 |std_id|Name|
 |--------|-|
-|k21-3073|Abdul aleem |
-|k21-3107|Rahima Irfan|
-|k21-3063|Abdul samad khaja|
+|k20-1234|xyz|
+|k21-4567|qbc|
+|k21-1234|ghi|
 
 ## Assingment 1 ##
 Status: **In progress**
