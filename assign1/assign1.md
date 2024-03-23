@@ -7,7 +7,7 @@
 After completion of the assignment you must be able to: -
 - read and write OpenMP and MPI code for shared-memory and distributed systems.
 - Code and use a helper file in batch or shell to benchmark programs. 
-## Task:
+# Task:
 ### Overview
 In this assignment you have to convert the class activity of matrix-vector multiplication into running code and benchmark it using a batch script. To do this first you need to make a sequential C program for matrix-vector multiplication, then a naive matrix-vector multiplication program using OpenMP and MPI both. Then make an advance matrix-vector multiplication program that uses tiling as discussed in class. Finally write a batch program that runs these 5  programs for different sizes of matrices and vectors. 
 ### Details
